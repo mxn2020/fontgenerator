@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: FontGenerator
+  vercel:
+    project: FontGenerator
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: fontgenerator
