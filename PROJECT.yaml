@@ -1,16 +1,18 @@
-id: 2bb07e9d-7234-443f-a872-62e8a333ac62
 name: fontgenerator
-description: "Google Fonts recommendations with live previews"
+project_scope: main
+project_type: standalone
+description: Google Fonts recommendations with live previews
 tier: prototype
 lane: side-projects
 priority: low
-category: analysis
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/fontgenerator
+repo: "https://github.com/mxn2020/fontgenerator"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, fonts, design, typography, creative, generation]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: 2bb07e9d-7234-443f-a872-62e8a333ac62
